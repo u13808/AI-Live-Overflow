@@ -1,1 +1,4 @@
-cGx1Z2lucyB7CiAgICBpZCgiY29tLmFuZHJvaWQuYXBwbGljYXRpb24iKSB2ZXJzaW9uICI4LjIuMCIgYXBwbHkgZmFsc2UKICAgIGlkKCJvcmcuamV0YnJhaW5zLmtvdGxpbi5hbmRyb2lkIikgdmVyc2lvbiAiMS45LjIyIiBhcHBseSBmYWxzZQp9
+plugins {
+    id("com.android.application") version "8.2.0" apply false
+    id("org.jetbrains.kotlin.android") version "1.9.22" apply false
+}
