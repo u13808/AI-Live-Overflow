@@ -26,7 +26,7 @@
 # Resolve links: $0 may be a link
 app_path=$0
 while
-    APP_HOME=${{app_path%"${{app_path##*/}}"}}  # leaves a trailing /; empty if no leading path
+    APP_HOME=${app_path%"${app_path##*/}"}  # leaves a trailing /; empty if no leading path
     [ -h "$app_path" ]
 do
     ls=$( ls -ld -- "$app_path" )
@@ -39,9 +39,9 @@ done
 
 # This is normally unused
 # shellcheck disable=SC2034
-APP_BASE_NAME=${{0##*/}}
+APP_BASE_NAME=${0##*/}
 # Discard cd standard output in case $CDPATH is set (https://github.com/gradle/gradle/issues/25036)
-APP_HOME=$( cd "${{APP_HOME:-./}}" > /dev/null && pwd -P ) || exit
+APP_HOME=$( cd "${APP_HOME:-./}" > /dev/null && pwd -P ) || exit
 
 # Use the maximum available, or set MAX_FD != -1 to use that value.
 MAX_FD=maximum
