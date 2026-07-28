@@ -1,15 +1,1 @@
-# Add project specific ProGuard rules here.
-# By default, the flags in this file are appended to flags specified
-# in /sdk/tools/proguard/proguard-android-optimize.txt
-
-# Keep WebView JS interface
--keepclassmembers class * {
-    @android.webkit.JavascriptInterface <methods>;
-}
-
-# Keep Service
--keep class com.example.deskpet.service.** { *; }
-
-# Keep Supabase HTTP utils
--dontwarn java.net.**
--dontwarn javax.**
+IyBBZGQgcHJvamVjdCBzcGVjaWZpYyBQcm9HdWFyZCBydWxlcyBoZXJlLgojIEJ5IGRlZmF1bHQsIHRoZSBmbGFncyBpbiB0aGlzIGZpbGUgYXJlIGFwcGVuZGVkIHRvIGZsYWdzIHNwZWNpZmllZAojIGluIC9zZGsvdG9vbHMvcHJvZ3VhcmQvcHJvZ3VhcmQtYW5kcm9pZC1vcHRpbWl6ZS50eHQKCiMgS2VlcCBXZWJWaWV3IEpTIGludGVyZmFjZQota2VlcGNsYXNzbWVtYmVycyBjbGFzcyAqIHsKICAgIEBhbmRyb2lkLndlYmtpdC5KYXZhc2NyaXB0SW50ZXJmYWNlIDxtZXRob2RzPjsKfQoKIyBLZWVwIFNlcnZpY2UKLWtlZXAgY2xhc3MgY29tLmV4YW1wbGUuZGVza3BldC5zZXJ2aWNlLioqIHsgKjsgfQoKIyBLZWVwIFN1cGFiYXNlIEhUVFAgdXRpbHMKLWRvbnR3YXJuIGphdmEubmV0LioqCi1kb250d2FybiBqYXZheC4qKgo=

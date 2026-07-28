@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Theme.DeskPet" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="colorPrimary">@color/purple_500</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
-        <item name="colorOnPrimary">@color/white</item>
-        <item name="colorSecondary">@color/teal_200</item>
-        <item name="colorSecondaryVariant">@color/teal_700</item>
-        <item name="colorOnSecondary">@color/black</item>
-        <item name="android:statusBarColor">@color/purple_700</item>
-    </style>
-</resources>
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlcz4KICAgIDxzdHlsZSBuYW1lPSJUaGVtZS5EZXNrUGV0IiBwYXJlbnQ9IlRoZW1lLk1hdGVyaWFsQ29tcG9uZW50cy5EYXlOaWdodC5Ob0FjdGlvbkJhciI+CiAgICAgICAgPGl0ZW0gbmFtZT0iY29sb3JQcmltYXJ5Ij5AY29sb3IvcHVycGxlXzUwMDwvaXRlbT4KICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnlWYXJpYW50Ij5AY29sb3IvcHVycGxlXzcwMDwvaXRlbT4KICAgICAgICA8aXRlbSBuYW1lPSJjb2xvck9uUHJpbWFyeSI+QGNvbG9yL3doaXRlPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImNvbG9yU2Vjb25kYXJ5Ij5AY29sb3IvdGVhbF8yMDA8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iY29sb3JTZWNvbmRhcnlWYXJpYW50Ij5AY29sb3IvdGVhbF83MDA8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iY29sb3JPblNlY29uZGFyeSI+QGNvbG9yL2JsYWNrPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImFuZHJvaWQ6c3RhdHVzQmFyQ29sb3IiPkBjb2xvci9wdXJwbGVfNzAwPC9pdGVtPgogICAgPC9zdHlsZT4KPC9yZXNvdXJjZXM+Cg==

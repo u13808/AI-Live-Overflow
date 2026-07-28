@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="#F5F5F5" />
-    <corners android:radius="12dp" />
-    <stroke android:width="1dp" android:color="#E0E0E0" />
-</shape>
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNoYXBlIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+CiAgICA8c29saWQgYW5kcm9pZDpjb2xvcj0iI0Y1RjVGNSIgLz4KICAgIDxjb3JuZXJzIGFuZHJvaWQ6cmFkaXVzPSIxMmRwIiAvPgogICAgPHN0cm9rZSBhbmRyb2lkOndpZHRoPSIxZHAiIGFuZHJvaWQ6Y29sb3I9IiNFMEUwRTAiIC8+Cjwvc2hhcGU+Cg==

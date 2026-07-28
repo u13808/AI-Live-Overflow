@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="subtitle_color">#888888</color>
-    <color name="hint_color">#AAAAAA</color>
-    <color name="start_button_color">#FF6200EE</color>
-</resources>
+PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlcz4KICAgIDxjb2xvciBuYW1lPSJwdXJwbGVfMjAwIj4jRkZCQjg2RkM8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9InB1cnBsZV81MDAiPiNGRjYyMDBFRTwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0icHVycGxlXzcwMCI+I0ZGMzcwMEIzPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJ0ZWFsXzIwMCI+I0ZGMDNEQUM1PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJ0ZWFsXzcwMCI+I0ZGMDE4Nzg2PC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJibGFjayI+I0ZGMDAwMDAwPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJ3aGl0ZSI+I0ZGRkZGRkZGPC9jb2xvcj4KICAgIDxjb2xvciBuYW1lPSJzdWJ0aXRsZV9jb2xvciI+Izg4ODg4ODwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iaGludF9jb2xvciI+I0FBQUFBQTwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0ic3RhcnRfYnV0dG9uX2NvbG9yIj4jRkY2MjAwRUU8L2NvbG9yPgo8L3Jlc291cmNlcz4K
