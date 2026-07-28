@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🐾 AI-Live-Overflow"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="5dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="你的 AI 悬浮窗桌宠"
+            android:textSize="14sp"
+            android:textColor="@color/subtitle_color"
+            android:layout_marginBottom="30dp" />
+
+        <TextView
+            android:id="@+id/statusText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="正在检测权限状态..."
+            android:textSize="14sp"
+            android:padding="16dp"
+            android:background="@drawable/status_bg"
+            android:layout_marginBottom="24dp"
+            android:lineSpacingExtra="6dp" />
+
+        <Button
+            android:id="@+id/btnPermissionOverlay"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="① 授权悬浮窗权限"
+            android:textAllCaps="false"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/btnPermissionUsage"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="② 授权使用情况统计"
+            android:textAllCaps="false"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/btnPermissionNotify"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="③ 授权通知权限"
+            android:textAllCaps="false"
+            android:layout_marginBottom="24dp" />
+
+        <Button
+            android:id="@+id/btnStart"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="🚀 启动桌宠"
+            android:textSize="18sp"
+            android:textAllCaps="false"
+            android:backgroundTint="@color/start_button_color" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n💡 提示：启动后桌宠会以悬浮窗形式显示在屏幕上，\n你可以拖拽移动它，点击/双击/长按会有不同反应。\n\n需要先注册 Supabase 账号并配置数据库才能启用 AI 交互功能。"
+            android:textSize="12sp"
+            android:textColor="@color/hint_color"
+            android:layout_marginTop="20dp"
+            android:lineSpacingExtra="4dp" />
+
+    </LinearLayout>
+
+</ScrollView>
