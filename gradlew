@@ -1,1 +1,112 @@
-IyEvYmluL3NoCgojCiMgQ29weXJpZ2h0IMKpIDIwMTUtMjAyMSB0aGUgb3JpZ2luYWwgYXV0aG9ycy4KIwojIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwojIHlvdSBtYXkgbm90IHVzZSB0aGlzIGZpbGUgZXhjZXB0IGluIGNvbXBsaWFuY2Ugd2l0aCB0aGUgTGljZW5zZS4KIyBZb3UgbWF5IG9idGFpbiBhIGNvcHkgb2YgdGhlIExpY2Vuc2UgYXQKIwojICAgICAgaHR0cHM6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAojCiMgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQojIGRpc3RyaWJ1dGVkIHVuZGVyIHRoZSBMaWNlbnNlIGlzIGRpc3RyaWJ1dGVkIG9uIGFuICJBUyBJUyIgQkFTSVMsCiMgV0lUSE9VVCBXQVJSQU5USUVTIE9SIENPTkRJVElPTlMgT0YgQU5ZIEtJTkQsIGVpdGhlciBleHByZXNzIG9yIGltcGxpZWQuCiMgU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZAojIGxpbWl0YXRpb25zIHVuZGVyIHRoZSBMaWNlbnNlLgojCgojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIwojICAgR3JhZGxlIHN0YXJ0IHVwIHNjcmlwdCBmb3IgUE9TSVggZ2VuZXJhdGVkIGJ5IEdyYWRsZS4KIwojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCiMgQXR0ZW1wdCB0byBzZXQgQVBQX0hPTUUKIyBSZXNvbHZlIGxpbmtzOiAkMCBtYXkgYmUgYSBsaW5rCmFwcF9wYXRoPSQwCndoaWxlCiAgICBBUFBfSE9NRT0ke3thcHBfcGF0aCUiJHt7YXBwX3BhdGgjIyovfX0ifX0gICMgbGVhdmVzIGEgdHJhaWxpbmcgLzsgZW1wdHkgaWYgbm8gbGVhZGluZyBwYXRoCiAgICBbIC1oICIkYXBwX3BhdGgiIF0KZG8KICAgIGxzPSQoIGxzIC1sZCAtLSAiJGFwcF9wYXRoIiApCiAgICBsaW5rPSR7bHMjKicgLT4gJ30KICAgIGNhc2UgJGxpbmsgaW4gICAgICAgICAgICAgIygKICAgICAgLyopICAgYXBwX3BhdGg9JGxpbmsgOzsgIygKICAgICAgKikgICAgYXBwX3BhdGg9JEFQUF9IT01FJGxpbmsgOzsKICAgIGVzYWMKZG9uZQoKIyBUaGlzIGlzIG5vcm1hbGx5IHVudXNlZAojIHNoZWxsY2hlY2sgZGlzYWJsZT1TQzIwMzQKQVBQX0JBU0VfTkFNRT0ke3swIyMqL319CiMgRGlzY2FyZCBjZCBzdGFuZGFyZCBvdXRwdXQgaW4gY2FzZSAkQ0RQQVRIIGlzIHNldCAoaHR0cHM6Ly9naXRodWIuY29tL2dyYWRsZS9ncmFkbGUvaXNzdWVzLzI1MDM2KQpBUFBfSE9NRT0kKCBjZCAiJHt7QVBQX0hPTUU6LS4vfX0iID4gL2Rldi9udWxsICYmIHB3ZCAtUCApIHx8IGV4aXQKCiMgVXNlIHRoZSBtYXhpbXVtIGF2YWlsYWJsZSwgb3Igc2V0IE1BWF9GRCAhPSAtMSB0byB1c2UgdGhhdCB2YWx1ZS4KTUFYX0ZEPW1heGltdW0KCndhcm4gKCkgewogICAgZWNobyAiJCoiCn0gPiYyCgpkaWUgKCkgewogICAgZWNobwogICAgZWNobyAiJCoiCiAgICBlY2hvCiAgICBleGl0IDEKfSA+JjIKCiMgT1Mgc3BlY2lmaWMgc3VwcG9ydCAobXVzdCBiZSAndHJ1ZScgb3IgJ2ZhbHNlJykuCmN5Z3dpbj1mYWxzZQptc3lzPWZhbHNlCmRhcndpbj1mYWxzZQpub25zdG9wPWZhbHNlCmNhc2UgIiQoIHVuYW1lICkiIGluICAgICAgICAgICAgICAgICMoCiAgQ1lHV0lOKiApICAgICAgICAgY3lnd2luPXRydWUgIDs7ICMoCiAgRGFyd2luKiApICAgICAgICAgZGFyd2luPXRydWUgIDs7ICMoCiAgTVNZUyogfCBNSU5HVyogKSAgbXN5cz10cnVlICAgOzsgIygKICBOb25TdG9wKiApICAgICAgICBub25zdG9wPXRydWUgOzsKZXNhYwoKQ0xBU1NQQVRIPSRBUFBfSE9NRS9ncmFkbGUvd3JhcHBlci9ncmFkbGUtd3JhcHBlci5qYXIKCiMgRGV0ZXJtaW5lIHRoZSBKYXZhIGNvbW1hbmQgdG8gdXNlIHRvIHN0YXJ0IHRoZSBKVk0uCmlmIFsgLW4gIiRKQVZBX0hPTUUiIF0gOyB0aGVuCiAgICBpZiBbIC14ICIkSkFWQV9IT01FL2pyZS9zaC9qYXZhIiBdIDsgdGhlbgogICAgICAgIEpBVkFDTUQ9JEpBVkFfSE9NRS9qcmUvc2gvamF2YQogICAgZWxzZQogICAgICAgIEpBVkFDTUQ9JEpBVkFfSE9NRS9iaW4vamF2YQogICAgZmkKICAgIGlmIFsgISAteCAiJEpBVkFDTUQiIF0gOyB0aGVuCiAgICAgICAgZGllICJFUlJPUjogSkFWQV9IT01FIGlzIHNldCB0byBhbiBpbnZhbGlkIGRpcmVjdG9yeTogJEpBVkFfSE9NRSIKICAgIGZpCmVsc2UKICAgIEpBVkFDTUQ9amF2YQogICAgaWYgISBjb21tYW5kIC12IGphdmEgPi9kZXYvbnVsbCAyPiYxCiAgICB0aGVuCiAgICAgICAgZGllICJFUlJPUjogSkFWQV9IT01FIGlzIG5vdCBzZXQgYW5kIG5vICdqYXZhJyBjb21tYW5kIGNvdWxkIGJlIGZvdW5kIGluIHlvdXIgUEFUSC4iCiAgICBmaQpmaQoKIyBJbmNyZWFzZSB0aGUgbWF4aW11bSBmaWxlIGRlc2NyaXB0b3JzIGlmIHdlIGNhbi4KaWYgISAiJGN5Z3dpbiIgJiYgISAiJGRhcndpbiIgJiYgISAiJG5vbnN0b3AiIDsgdGhlbgogICAgY2FzZSAkTUFYX0ZEIGluICMoCiAgICAgIG1heCopCiAgICAgICAgTUFYX0ZEPSQoIHVsaW1pdCAtSCAtbiApIHx8CiAgICAgICAgICAgIHdhcm4gIkNvdWxkIG5vdCBxdWVyeSBtYXhpbXVtIGZpbGUgZGVzY3JpcHRvciBsaW1pdCIKICAgICAgOzsKICAgIGVzYWMKICAgIGNhc2UgJE1BWF9GRCBpbiAgIygKICAgICAgJycgfCBzb2Z0KSA6OzsgIygKICAgICAgKikKICAgICAgICB1bGltaXQgLW4gIiRNQVhfRkQiIHx8CiAgICAgICAgICAgIHdhcm4gIkNvdWxkIG5vdCBzZXQgbWF4aW11bSBmaWxlIGRlc2NyaXB0b3IgbGltaXQgdG8gJE1BWF9GRCIKICAgICAgOzsKICAgIGVzYWMKZmkKCiMgQ29sbGVjdCBhbGwgYXJndW1lbnRzIGZvciB0aGUgamF2YSBjb21tYW5kLCBzdHJhY2tzOi8vLi4uCmV2YWwgc2V0IC0tICRERUZBVUxUX0pWTV9PUFRTICRKQVZBX09QVFMgJEdSQURMRV9PUFRTICJcIi1Eb3JnLmdyYWRsZS5hcHBuYW1lPSRBUFBfQkFTRV9OQU1FXCIiIC1jbGFzc3BhdGggIlwiJENMQVNTUEFUSFwiIiBvcmcuZ3JhZGxlLndyYXBwZXIuR3JhZGxlV3JhcHBlck1haW4gIiRAIgoKZXhlYyAiJEpBVkFDTUQiICIkQCIK
+#!/bin/sh
+
+#
+# Copyright © 2015-2021 the original authors.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      https://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+
+##############################################################################
+#
+#   Gradle start up script for POSIX generated by Gradle.
+#
+##############################################################################
+
+# Attempt to set APP_HOME
+# Resolve links: $0 may be a link
+app_path=$0
+while
+    APP_HOME=${{app_path%"${{app_path##*/}}"}}  # leaves a trailing /; empty if no leading path
+    [ -h "$app_path" ]
+do
+    ls=$( ls -ld -- "$app_path" )
+    link=${ls#*' -> '}
+    case $link in             #(
+      /*)   app_path=$link ;; #(
+      *)    app_path=$APP_HOME$link ;;
+    esac
+done
+
+# This is normally unused
+# shellcheck disable=SC2034
+APP_BASE_NAME=${{0##*/}}
+# Discard cd standard output in case $CDPATH is set (https://github.com/gradle/gradle/issues/25036)
+APP_HOME=$( cd "${{APP_HOME:-./}}" > /dev/null && pwd -P ) || exit
+
+# Use the maximum available, or set MAX_FD != -1 to use that value.
+MAX_FD=maximum
+
+warn () {
+    echo "$*"
+} >&2
+
+die () {
+    echo
+    echo "$*"
+    echo
+    exit 1
+} >&2
+
+# OS specific support (must be 'true' or 'false').
+cygwin=false
+msys=false
+darwin=false
+nonstop=false
+case "$( uname )" in                #(
+  CYGWIN* )         cygwin=true  ;; #(
+  Darwin* )         darwin=true  ;; #(
+  MSYS* | MINGW* )  msys=true   ;; #(
+  NonStop* )        nonstop=true ;;
+esac
+
+CLASSPATH=$APP_HOME/gradle/wrapper/gradle-wrapper.jar
+
+# Determine the Java command to use to start the JVM.
+if [ -n "$JAVA_HOME" ] ; then
+    if [ -x "$JAVA_HOME/jre/sh/java" ] ; then
+        JAVACMD=$JAVA_HOME/jre/sh/java
+    else
+        JAVACMD=$JAVA_HOME/bin/java
+    fi
+    if [ ! -x "$JAVACMD" ] ; then
+        die "ERROR: JAVA_HOME is set to an invalid directory: $JAVA_HOME"
+    fi
+else
+    JAVACMD=java
+    if ! command -v java >/dev/null 2>&1
+    then
+        die "ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH."
+    fi
+fi
+
+# Increase the maximum file descriptors if we can.
+if ! "$cygwin" && ! "$darwin" && ! "$nonstop" ; then
+    case $MAX_FD in #(
+      max*)
+        MAX_FD=$( ulimit -H -n ) ||
+            warn "Could not query maximum file descriptor limit"
+      ;;
+    esac
+    case $MAX_FD in  #(
+      '' | soft) :;; #(
+      *)
+        ulimit -n "$MAX_FD" ||
+            warn "Could not set maximum file descriptor limit to $MAX_FD"
+      ;;
+    esac
+fi
+
+# Collect all arguments for the java command, stracks://...
+eval set -- $DEFAULT_JVM_OPTS $JAVA_OPTS $GRADLE_OPTS "\"-Dorg.gradle.appname=$APP_BASE_NAME\"" -classpath "\"$CLASSPATH\"" org.gradle.wrapper.GradleWrapperMain "$@"
+
+exec "$JAVACMD" "$@"
